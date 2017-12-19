@@ -12,7 +12,7 @@ public class Product {
 	public String getName() {
 		return name;
 	}
-	
+	//hej
 	public void setName(String n) {
 		name = n;
 	}
